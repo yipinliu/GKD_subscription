@@ -329,6 +329,7 @@ export const yongBlackListAppIDs = new Set([
   'com.ct.client', // 中国电信
   'me.ele', // 饿了么
   'com.tencent.qqmusic', // QQ音乐
+  'com.aiyu.kaipanla', // 开盘啦
 ]);
 
 // 全局规则白名单（由于系统应用默认禁用全局规则，所以对系统应用启用白名单模式）

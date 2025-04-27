@@ -16,7 +16,7 @@ apps.forEach((appConfig) => {
 });
 
 export default defineGkdSubscription({
-  id: 666,
+  id: 347823,
   name: 'AIsouler的GKD订阅-禁止传播',
   version: 0,
   author: 'AIsouler',
