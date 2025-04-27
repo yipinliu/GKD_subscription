@@ -17,6 +17,10 @@ export default defineGkdApp({
           matches: '@ImageView[id$="iv_back"][clickable=true]',
           snapshotUrls: 'https://i.gkd.li/i/13749206',
         },
+        {
+          activityIds: 'com.lanjinger.choiassociatedpress.main.MainTabActivity',
+          matches: '@TextView[id$="cancelbut"][clickable=true]',
+        },
       ],
     },
   ],
